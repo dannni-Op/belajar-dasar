@@ -6,4 +6,3 @@
 
 -Memperbanyak membuat Project
 -Belajar MongoDB
--sdnff
