@@ -3,3 +3,6 @@
 -Cari Kerja
 -Belajar Node Js Lagi
 -Belajar Restfull Api
+
+-Membuat Project
+-Belajar MongoDB
