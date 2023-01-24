@@ -1,8 +1,8 @@
 -Belajar Git dan Github
--Belajar lagi OOP Js
 -Cari Kerja
 -Belajar Node Js Lagi
 -Belajar Restfull Api
 
 -Memperbanyak membuat Project
 -Belajar MongoDB
+-Olahraga lagi
