@@ -6,3 +6,4 @@
 
 -Memperbanyak membuat Project
 -Belajar MongoDB
+-Mulai membaca buku
