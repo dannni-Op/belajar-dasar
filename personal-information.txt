@@ -1,2 +1,9 @@
 halo nama saya Muhammad Firmandani Pramoedya saat ini saya telah melangkah lebih jauh.
 pada saat tulisan ini dibuat saya telah menggunakan sistem operasi linux.
+skill yang telah dipelajari
+- html
+- css
+- bootstrap
+- react
+- nextJs
+- Php
