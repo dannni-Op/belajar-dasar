@@ -1,0 +1,4 @@
+- empat
+- tiga
+- dua
+- satu
